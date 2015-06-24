@@ -10,7 +10,7 @@ You have two options (described below):
 - After downloading, open Install Manager, click *Advanced* on the right, then select *SDK Image* in which you should fill the path to the downloaded SDK image.
 - Then you can just install it. 
 - Restart your computer after finishing installation.
-- Enter IDE. **Warning!** Pay attention to the upper toolbar of the IDE's UI. There must be an button like this:![alt tag](https://raw.githubusercontent.com/hyperchris/Tizen-Tutorial-On-Windows/master/img/button.png). If there's no such a button, please uninstall all the IDE and choose the second choice.
+- Enter IDE. **Warning!** Pay attention to the upper toolbar of the IDE's UI. There must be an button like this:![alt tag](https://raw.githubusercontent.com/hyperchris/Tizen-Tutorial-On-Windows/master/img/button.png). If there's no such a button, please uninstall all the IDE and choose the second choice.   
 2. Contact me and I will give you a working version. 
 
 ##Register your device
