@@ -11,7 +11,7 @@ You have two options (described below):
 - Then you can just install it. 
 - Restart your computer after finishing installation.
 - Enter IDE. **Warning!** Pay attention to the upper toolbar of the IDE's UI. There must be an button like this:![alt tag](https://github.com/hyperchris/Tizen-Tutorial-On-Windows/img/button.png). If there's no such a button, please uninstall all the IDE and choose the second choice.
-2. Download the zipped file in the repo. Unzip the package, then enter "tizen-wearable-sdk/install-manager" and start this Install Manager.  
+2. Contact me and I will give you a working version. 
 
 ##Register your device
 Turn on the "USB Debugging Mode" of your gear. Connect it to your PC. Make sure in left of IDE panel you can find the device. Then follow [this link](http://youtu.be/Xy2B-nlnprg). *You must follow every step!*.
